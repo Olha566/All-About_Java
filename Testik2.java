@@ -30,4 +30,3 @@ public class Testik2 {
         System.out.println(sum);
         }
     }
-
